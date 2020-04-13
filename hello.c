@@ -18,11 +18,16 @@ void swap(int* a, int* b)
 	return;
 }
 
+<<<<<<< HEAD
 int main()
 {
 	printf("hello!!!!!!!!!!\n");
+=======
+int main(){
+	printf("hello world!!!\n");
+>>>>>>> lab1
 
-	int a=3, b=2;
+	int a=3, b=20;
 	printf("a+b=%d\n", add(a,b));
 
 	return 0;
