@@ -12,9 +12,9 @@ void swap(int* a, int* b)
 }
 
 int main(){
-	printf("hello!!!!!!!!!!\n");
+	printf("hello world!!!\n");
 
-	int a=3, b=2;
+	int a=3, b=20;
 	printf("a+b=%d\n", add(a,b));
 
 	return 0;
